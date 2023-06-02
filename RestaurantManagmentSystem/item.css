@@ -1,0 +1,22 @@
+.service{
+    background-color: brown;
+    color: white;
+   
+}
+
+table{
+    border: 1px solid black;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+     padding: 10px;
+   
+}
+.xyz{
+    color: white;
+    background-color:green;
+}
+.tbody{
+    color: white;
+    background-color:sienna;
+}
